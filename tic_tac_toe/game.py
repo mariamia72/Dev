@@ -1,4 +1,4 @@
-from tic_tac_toe.gameparts.parts import Board
+from gameparts import Board
 
 game = Board()
 game.display()
